@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">animations-transitions</string>
+    <string name="title_activity_view_animations">View Animations</string>
+    <string name="title_activity_property_animations">Property Animations</string>
+
+    <!-- View Animations / Property Animations-->
+    <string name="alpha">Alpha</string>
+    <string name="translate">Translate</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="set">Set</string>
+    <string name="use_animation_resources">Use Animation Resources</string>
+</resources>
